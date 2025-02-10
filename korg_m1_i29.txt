@@ -1,0 +1,64 @@
+# Korg M1 Stock Drum Set 3 - Patch I49
+# MIDI note/CC name map
+
+96	Low Tom
+95	Low Tom
+94	Low Tom
+93	Low Tom
+92	Low Tom
+91	Low Tom
+90	Low Tom
+89	Low Tom
+88	Wind Bell
+87	Block
+86	Electronic Tom
+85	Electronic Tom
+84	Electronic Tom
+83	Electronic Tom
+82	Electronic Tom
+81	Electronic Tom
+80	Electronic Tom
+79	Electronic Tom
+78	Ride Cymbal
+77	Tambourine
+76	Tambourine 
+75	Claps 
+74	Claps
+73	Claps
+72	Cowbell
+71	Cowbell
+70	Timbales 2
+69	Timbales 1
+68	Timbales 1
+67	Conga 2
+66	Conga 2
+65	Conga 1
+64	Conga 1
+63	Conga 1
+62	Crash
+61	Timbales 2
+60	Tom 2
+59	Tom 2
+58	Tom 2
+57	Tom 2
+56	Tom 2
+55	Tom 2
+54	Tom 2
+53	Tom 2
+52	Tom 2
+51	Tom 2
+50	Tom 1
+49	Tom 1
+48	Tom 1
+47	Tom 1
+46	Tom 1
+45	Kick 3
+44	Closed HH1
+43	Open HH1
+42	Closed HH1
+41	Closed HH1
+40	Shaker
+39	Snare 4
+38	Snare 4
+37	Kick 3
+36	Kick 3

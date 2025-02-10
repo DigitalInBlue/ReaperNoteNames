@@ -1,0 +1,64 @@
+# Korg M1 Stock Drum Set 3 - Patch I49
+# MIDI note/CC name map
+
+96	Rap
+95	Rap
+94	Rap
+93	Rap
+92	Rap
+91	Rap
+90	Drop
+89	Drop
+88	Snare 2
+87	Snare 2
+86	Snare 1
+85	Snare 1
+84	Kick 3
+83	Finger Snap
+82	Finger Snap
+81	Finger Snap
+80	Finger Snap
+79	Finger Snap
+78	Finger Snap
+77	Hammer
+76	Hammer
+75	Hammer
+74	Hammer
+73	Cowbell
+72	Cowbell
+71	Metal Hit
+70	Metal Hit
+69	Metal Hit
+68	Metal Hit
+67	Metal Hit
+66	Metal Hit
+65	Metal Hit
+64	Metal Hit
+63	Metal Hit
+62	Metal Hit
+61	Metal Hit
+60	Electronic Tom
+59	Electronic Tom
+58	Conga 2
+57	Electronic Tom
+56	Electronic Tom
+55	Ride
+54	Conga 1
+53	Electronic Tom
+52	Electronic Tom
+51	Electronic Tom
+50	Crash
+49	Crash
+48	Tom 2
+47	Tom 2
+46	Open HH1
+45	Tom 2
+44	Shaker
+43	Shaker
+42	Closed HH1
+41	Tom 1
+40	Tom 1
+39	Claps
+38	Snare 4
+37	Side Stick
+36	Kick 1
