@@ -39,7 +39,7 @@ We welcome contributions! If you have a note name file that isn't listed, please
 
 Check out the available note name files in the repository. If your favorite instrument isn't listed, help expand the collection!
 
-## 📜 License
+## License
 
 This project is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.  
 
