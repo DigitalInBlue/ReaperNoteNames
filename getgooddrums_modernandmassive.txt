@@ -1,0 +1,31 @@
+# Getgood Drums - Modern and Massive - Halpern
+# MIDI note/CC name map
+
+83 Splash - Choke
+77 Splash - Main Hit
+76 Ride - Crash
+74 Ride - Bell
+73 Ride - Tip
+72 China - Choke
+71 China - Main Hit
+62 Crash R - Choke
+61 Crash R - Crash
+59 Crash L - Choke
+58 Crash L - Crash
+57 Hat - Ching
+55 Hat - Pedal Chick
+54 Hat - Open 3
+53 Hat - Open 2
+52 Hat - Open1
+49 Hat - Closed
+48 Hat - Tight
+46 Floor Tom 2
+45 Floor Tom 1
+43 Floor Tom 1
+42 Rack Tom
+41 Snare - Snare Off
+40 Snare - Side Stick
+39 Snare - Ruff
+38 Snare - Flam
+37 Snare - Hit
+36 Kick

@@ -1,0 +1,50 @@
+# Getgood Drums - Modern and Massive - Halpern
+# MIDI note/CC name map
+
+81 Open Triangle
+80 Mute Triangle
+79 Open Cuica
+78 Mute Cuica
+77 Low Wood Block
+76 Hi Wood Block
+75 Claves
+74 Long Guiro
+73 Short Guiro
+72 Long Whistle
+71 Short Whistle
+70 Maracas
+69 Cabasa
+68 Low Agogo
+67 High Agogo
+66 Low Timbale
+65 High Timbale
+64 Low Conga
+63 Open Hi Conga
+62 Mute HiConga
+61 Low Bongo
+60 Hi Bongo
+59 Ride Cymbal 2
+58 Vibroslap
+57 Crash Cymbal 2
+56 Cowbell
+55 Splash Cymbal
+54 Tambourine
+53 Ride Bell
+52 Chinese Cymbal
+51 Ride Cymbal 1
+50 High Tom
+49 Crash Cymbal 1
+48 Hi-Mid Tom
+47 Low-Mid Tom
+46 Open Hi-Hat
+45 Low Tom
+44 Pedal Hi-Hat
+43 High Floor Tom
+42 Closed Hi-Hat
+41 Low Floor Tom
+40 Electric Snare
+39 Hand Clap
+38 Acoustic Snare
+37 Side Stick
+36 Bass Drum
+35 Accoustic Bass Drum
