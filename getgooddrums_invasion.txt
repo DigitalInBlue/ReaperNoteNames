@@ -1,0 +1,77 @@
+# Getgood Drums Invasion 
+# MIDI note/CC name map
+
+# KICK
+22 Auto Double Kick
+23 Kick Left
+24 Kick Right
+
+# SNARE
+26 Snare Hit
+27 Snare Flam
+28 Snare Ruff
+29 Snare Off
+30 Snare (Cross Stick)
+
+# TOMS
+33 Rack Tom 1
+34 Rack Tom 2 
+35 Rack Tom 3 
+36 Floor Tom 1
+37 Floor Tom 2
+38 Floor Tom 3
+
+# RIDE
+61 Ride Bell
+62 Ride Bow
+63 Ride Rim
+
+# MAIN CRASH LEFT
+52 Main Crash L Hit
+53 Main Crash L Choke
+
+# MAIN CRASH RIGHT 
+54 Main Crash R Hit
+55 Main Crash R Choke
+
+# WIDE CRASH LEFT
+56 Wide Crash L Hit
+57 Wide Crash L Choke
+
+# WIDE CRASH RIGHT 
+58 Wide Crash R Hit
+59 Wide Crash R Choke
+
+# HATS
+41 Hats Tip Tight
+42 Hats Edge Tight
+43 Hats Tip Closed
+44 Hats Edge Closed
+45 Hats Open 1
+46 Hats Open 2
+47 Hats Open 3
+48 Hats Pedal
+17 Hats CC
+
+# SPLASH
+73 Splash L Hit
+74 Splash L Choke
+75 Splash R Hit
+76 Splash R Choke
+
+# CHINA 
+65 China L Hit
+66 China L Choke
+67 China R Hit
+68 China R Choke 
+
+# STACK
+78 Stack Hit
+
+# BELLS
+79 Bell L Hit
+80 Bell R Hit
+
+# X-HATS
+70 X-Hats Closed
+71 X-Hats Open

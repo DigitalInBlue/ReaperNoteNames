@@ -1,0 +1,46 @@
+# Solemn Tones - Odin III
+# MIDI note/CC name map
+108 String 1
+107 String 2
+106 String 3
+105 String 4
+104 String 5
+103 String 6
+102 String 7
+101 String 8
+35  Up Mute Dead
+34  Down Mute Dead
+33  Alternate Mute Dead
+32  Up Mute Closed
+31  Down Mute Closed
+30  Alternate Mute Closed
+29  Up Mute Semi Closed
+28  Down Mute Semi Closed
+27  Alternate Mute Semi Closed
+26  Up Picked
+25  Down Picked
+24  Alternate Picked
+23  Nasty Pinch Harmonic
+22  Pinch Harmonic
+21  Natural Harmonic
+20  Tremolo Picked
+19  Scrapes & Noises
+18  *Auto Slide
+17  Bend Up Slow
+16  Bend Up Fast
+15  Up Open Palm Mute
+14  Pull-Off
+13  Hammer-On
+12  Down Open Palm Mute
+11  Thumb Slap
+10  Finger Pluck Dead
+9   Finger Pluck Open
+8   *Auto Power Chord
+7   Slide Fast To Up
+6   Slide Fast To Down
+5   Slide Fast From Down
+4   Slide Fast From Up
+3   Slide Slow To Up
+2   Slide Slow To Down
+1   Slide Slow From Down
+0   Slide Slow From Up
