@@ -1,0 +1,32 @@
+# Djinbass 2 - MIDI note/CC name map
+0   Main Alternating
+1   Main Up / Index
+2   Main Down / Mid
+3   Dead Note
+4   Slap
+5   Dead Slap
+6   Pop
+7   Dead Pop
+8   Harmonic
+9   Hammer/Pull
+10  Tapping
+11  Slide Trigger
+12  Thump Up
+13  Thump Down
+14  Dead Thump Up
+15  Dead Thump Down
+16  Fret Hand Mute
+17  Palm Mute Alt
+18  Palm Mute Up
+19  Palm Mute Down
+20  Dead Strum
+21  Harm Thump Up
+22  Harm Thump Down
+96  Harmonic Slap
+97  Harmonic Pop
+127 Dead Palm Rest
+126 Force B String
+125 Force E String
+124 Force A String
+123 Force D String
+122 Force G String
