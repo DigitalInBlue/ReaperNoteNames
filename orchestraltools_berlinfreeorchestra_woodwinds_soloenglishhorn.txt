@@ -1,0 +1,4 @@
+# Orchestral Tools - Berlin Free Orchestra - Solo English Horn
+# SINE Player keyswitches. Octave convention: C3 = MIDI 60.
+24 Sustains
+25 Staccato short

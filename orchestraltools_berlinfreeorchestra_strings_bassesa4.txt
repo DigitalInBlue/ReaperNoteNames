@@ -1,0 +1,5 @@
+# Orchestral Tools - Berlin Free Orchestra - Basses a4
+# SINE Player keyswitches. Octave convention: C3 = MIDI 60.
+96 Sustains
+97 Spiccato
+98 Pizzicato

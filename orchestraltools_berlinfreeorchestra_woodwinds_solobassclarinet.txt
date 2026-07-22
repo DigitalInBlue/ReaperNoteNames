@@ -1,0 +1,4 @@
+# Orchestral Tools - Berlin Free Orchestra - Solo Bass Clarinet
+# SINE Player keyswitches. Octave convention: C3 = MIDI 60.
+96 Sustains
+97 Staccato short

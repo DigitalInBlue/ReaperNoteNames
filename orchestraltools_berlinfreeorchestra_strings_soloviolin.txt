@@ -1,0 +1,5 @@
+# Orchestral Tools - Berlin Free Orchestra - Solo Violin
+# SINE Player keyswitches. Octave convention: C3 = MIDI 60.
+24 Sustains + LEG
+25 Sustains
+26 Staccato
