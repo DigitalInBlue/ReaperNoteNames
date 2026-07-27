@@ -1,0 +1,6 @@
+# Orchestral Tools - Berlin Free Orchestra - Celli a5
+# SINE Player keyswitches. Octave convention: C3 = MIDI 60.
+24 Sustains
+25 Spiccato
+26 Pizzicato
+27 Tremolo

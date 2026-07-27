@@ -1,0 +1,3 @@
+# Orchestral Tools - Berlin Free Orchestra - Unpitched Metals
+# SINE Player keyswitches. Octave convention: C3 = MIDI 60.
+24 Single hits

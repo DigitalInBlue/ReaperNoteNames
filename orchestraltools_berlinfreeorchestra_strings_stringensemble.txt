@@ -1,0 +1,4 @@
+# Orchestral Tools - Berlin Free Orchestra - String Ensemble
+# SINE Player keyswitches. Octave convention: C3 = MIDI 60.
+97 Sustains
+98 Spiccato

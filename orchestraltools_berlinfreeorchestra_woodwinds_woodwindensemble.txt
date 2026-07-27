@@ -1,0 +1,4 @@
+# Orchestral Tools - Berlin Free Orchestra - Woodwind Ensemble
+# SINE Player keyswitches. Octave convention: C3 = MIDI 60.
+109 Sustains
+110 Staccato
